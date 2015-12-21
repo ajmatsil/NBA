@@ -3,7 +3,7 @@ Scraping NBA data and making models from it.
 ---
 title: "ScrapeNBA"
 author: "Adam Matsil"
-date: "December 15, 2015"
+date: "December 20, 2015"
 output: html_document
 ---
 
